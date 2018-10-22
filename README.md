@@ -1,1 +1,1 @@
-# NDSU-Formulat-SAE
+# NDSU-Formula-SAE

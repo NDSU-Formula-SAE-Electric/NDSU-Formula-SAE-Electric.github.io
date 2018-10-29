@@ -1,14 +1,59 @@
-- title: Name
+- title: Martin Eichers
   name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: Project Lead
+  img: marty.png
+  thumbnail: marty.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
+- title: Jermey Warecka
   name: Name-2
+  subtitle: Mechanical Lead
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Graham Thompson
+  name: Name-3
+  subtitle: Computer Science Lead
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Evan Wurden
+  name: Name-4
+  subtitle: Electrical Lead
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Brett Butler
+  name: Name-5
+  subtitle: Electrical Lead
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Amber Younggren
+  name: Name-6
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Andrew B
+  name: Name-7
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -16,8 +61,176 @@
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
+- title: Brandon Baatz
+  name: Name-8
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+  
+- title: Brandon Kasper
+  name: Name-9
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+  
+- title: Colton Wutzke
+  name: Name-10
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+  
+- title: Corban H
+  name: Name-11
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Daniel P
+  name: Name-12
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+  
+- title: Dawson Coleman
+  name: Name-13
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Ethan M
+  name: Name-14
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Hadley T
+  name: Name-15
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: James O'Neal
+  name: Name-16
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: James Patrick Riley
+  name: Name-17
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Jayson Eisch
+  name: Name-18
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Joesph Schneider
+  name: Name-19
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Kim W
+  name: Name-20
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Megan Girard
+  name: Name-21
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Neal Larcom
+  name: Name-22
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Nik Slemp
+  name: Name-23
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Nik S
+  name: Name-24
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+  
+- title: Will Larson
+  name: Name-25
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+  
+- title: Wyatt M
+  name: Name-26
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
